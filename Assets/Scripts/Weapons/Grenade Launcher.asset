@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 858eec236b7aa8c4694d0993fe9263b6, type: 3}
+  m_Name: Grenade Launcher
+  m_EditorClassIdentifier: Assembly-CSharp::ProjectileWeaponData
+  gunName: Grenade Launcher
+  gunDamage: 0
+  fireRate: 0
+  reloadTime: 0
+  magazineSize: 0
+  maxAmmo: 0
+  gunPrefab: {fileID: 7999705088429744485, guid: 30070e259d4d02648b9ca6995466efab, type: 3}
+  fireSound: {fileID: 0}
+  gunIcon: {fileID: 0}
+  hasTimedAbility: 1
+  abilityDuration: 5
+  projectilePrefab: {fileID: 0}
+  projectileSpeed: 0

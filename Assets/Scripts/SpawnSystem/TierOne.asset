@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6327479eb8f04e440ac1a70ea010aa92, type: 3}
+  m_Name: TierOne
+  m_EditorClassIdentifier: Assembly-CSharp::EnemySpawnTiers
+  enemies:
+  - {fileID: 2172003075218492649, guid: 6309de2cee3d3694dbd6dd48d2138046, type: 3}
+  - {fileID: 2172003075218492649, guid: bd37e54a562d99146a30c03c4f04757a, type: 3}
